@@ -1,0 +1,84 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.menu-bar
+{
+     background-image: linear-gradient(to right, #6db9ef, #7ce08a ); 
+    
+}
+    
+
+.nav-link
+{
+
+    font-size: 19px;
+    color:#fff !important;
+    margin:2px;
+}
+.navbar-nav
+{
+text-align: right;
+
+}
+.menu-bar .navbar-toggler
+{
+    padding-right: 0;
+    outline: none;
+    border: none;
+}
+.banner{
+    height: 80%;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0.5)),url(img/b.jfif);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+.banner h1{
+    padding-top: 190px;
+    font-size:60px;
+    letter-spacing: 5px;
+    font-weight: 400;
+    text-shadow: 0 0 30px rgba(0,0,0,0.5);
+}
+
+
+.search-job
+{
+    padding: 40px;
+    margin: -50px 6% 50px;
+    background-image:linear-gradient(to right, #6db9ef, #7ce08a ) ;
+}
+.search-job
+.form-control{
+    max-width: 200px;
+    display:inline-flex;
+    margin: 10px 5px;
+    border-radius: 0;
+    box-shadow: none !important;
+     border: none !important; 
+}
+
+
+.search-job .btn-success{
+    border-radius: 0;
+    box-shadow: none !important;
+    border: none;
+    display: inline-flex;
+    margin: 5px;
+    padding: 5px 20px ;
+
+}
+
+.card-group{
+    padding: 50px;
+    margin: 50px;
+    border:none;
+    box-shadow: none !important;
+    background-image:linear-gradient(to right, #6db9ef, #7ce08a ) ;
+
+
+}
+
